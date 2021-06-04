@@ -7,15 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="logo.svg"
-   id="svg70"
-   version="1.1"
-   preserveAspectRatio="xMidYMid"
-   style="background: rgba(0, 0, 0, 0);"
-   viewBox="97.99522705078127 27.964675903320312 304.00954589843747 94.07064819335938"
+   width="304.00954589843747px"
    height="94.07064819335938px"
-   width="304.00954589843747px">
+   viewBox="97.99522705078127 27.964675903320312 304.00954589843747 94.07064819335938"
+   style="background: rgba(0, 0, 0, 0);"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg70"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <metadata
      id="metadata74">
     <rdf:RDF>
@@ -28,174 +28,175 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:current-layer="svg70"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:cy="75.709572"
-     inkscape:cx="61.19718"
-     inkscape:zoom="0.86263737"
-     showgrid="false"
-     id="namedview72"
-     inkscape:window-height="745"
-     inkscape:window-width="1366"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="745"
+     id="namedview72"
+     showgrid="false"
+     inkscape:zoom="0.86263737"
+     inkscape:cx="61.19718"
+     inkscape:cy="-17.029281"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg70" />
   <defs
      id="defs54">
     <linearGradient
-       gradientTransform="scale(2.4450464,0.4089902)"
-       gradientUnits="userSpaceOnUse"
-       y2="-31.219518"
-       y1="-78.318562"
-       x2="110.84496"
+       id="editing-shiny-gradient"
        x1="5.058774"
-       id="editing-shiny-gradient">
+       x2="110.84496"
+       y1="-78.318562"
+       y2="-31.219518"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(2.4450464,0.4089902)">
       <stop
-         id="stop2"
+         offset="0.0"
          stop-color="#ffb200"
-         offset="0.0" />
+         id="stop2" />
       <stop
-         id="stop4"
+         offset="0.5"
          stop-color="#e10057"
-         offset="0.5" />
+         id="stop4" />
       <stop
-         id="stop6"
+         offset="1.0"
          stop-color="#5A1A80"
-         offset="1.0" />
+         id="stop6" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="scale(2.4450464,0.4089902)"
-       y2="3.1296593"
-       y1="-112.66774"
-       x2="0.053168726"
+       id="editing-shiny-gradient2"
        x1="0.053168726"
-       id="editing-shiny-gradient2">
+       x2="0.053168726"
+       y1="-112.66774"
+       y2="3.1296593"
+       gradientTransform="scale(2.4450464,0.4089902)"
+       gradientUnits="userSpaceOnUse">
       <stop
-         id="stop9"
+         offset="0.2"
+         stop-color="#fff"
          stop-opacity="0.8"
-         stop-color="#fff"
-         offset="0.2" />
+         id="stop9" />
       <stop
-         id="stop11"
-         stop-opacity="0"
+         offset="0.8"
          stop-color="#fff"
-         offset="0.8" />
+         stop-opacity="0"
+         id="stop11" />
     </linearGradient>
     <filter
-       height="300%"
-       width="300%"
-       y="-100%"
+       id="editing-shiny2"
        x="-100%"
-       id="editing-shiny2">
+       y="-100%"
+       width="300%"
+       height="300%">
       <feMorphology
-         id="feMorphology14"
+         operator="erode"
          radius="2"
-         operator="erode" />
+         id="feMorphology14" />
     </filter>
     <filter
-       height="300%"
-       width="300%"
-       y="-100%"
+       id="editing-shiny"
        x="-100%"
-       id="editing-shiny">
+       y="-100%"
+       width="300%"
+       height="300%">
       <feFlood
-         id="feFlood17"
+         flood-color="#fff"
          result="flood"
-         flood-color="#fff" />
+         id="feFlood17" />
       <feConvolveMatrix
-         id="feConvolveMatrix19"
-         kernelMatrix="0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 1 1 0 0 1 1 0 0 0 0 1 1 0 0 0 "
-         divisor="1"
-         order="8,8"
+         in="SourceGraphic"
          result="conv"
-         in="SourceGraphic" />
+         order="8,8"
+         divisor="1"
+         kernelMatrix="0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 1 0 0 1 1 0 0 1 1 0 0 0 0 1 1 0 0 0 "
+         id="feConvolveMatrix19" />
       <feOffset
-         id="feOffset21"
+         dx="0"
+         dy="4"
+         in="conv"
          result="offset"
-         in="conv"
-         dy="4"
-         dx="0" />
+         id="feOffset21" />
       <feComposite
-         id="feComposite23"
-         result="comp"
-         in2="offset"
+         operator="in"
          in="flood"
-         operator="in" />
-      <feGaussianBlur
-         id="feGaussianBlur25"
-         result="shadow"
-         stdDeviation="3"
-         in="offset" />
-      <feColorMatrix
-         id="feColorMatrix27"
-         result="dark-shadow"
-         values="0.7 0 0 0 0  0 0.7 0 0 0  0 0 0.7 0 0  0 0 0 0.3 0"
-         type="matrix"
-         in="shadow" />
-      <feOffset
-         id="feOffset29"
-         result="offset-shadow"
-         in="dark-shadow"
-         dy="4"
-         dx="0" />
-      <feOffset
-         id="feOffset31"
-         result="offset-2"
-         in="conv"
-         dy="2"
-         dx="0" />
-      <feComposite
-         id="feComposite33"
-         result="edge-diff"
-         in2="offset-2"
-         in="offset"
-         operator="out" />
-      <feGaussianBlur
-         id="feGaussianBlur35"
-         result="edge-blur"
-         stdDeviation="1"
-         in="edge-diff" />
-      <feColorMatrix
-         id="feColorMatrix37"
-         values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"
-         type="matrix"
-         result="edge-shadow"
-         in="edge-blur" />
-      <feComposite
-         id="feComposite39"
-         result="edge-shadow-in"
          in2="offset"
-         in="edge-shadow"
-         operator="in" />
+         result="comp"
+         id="feComposite23" />
+      <feGaussianBlur
+         in="offset"
+         stdDeviation="3"
+         result="shadow"
+         id="feGaussianBlur25" />
+      <feColorMatrix
+         in="shadow"
+         type="matrix"
+         values="0.7 0 0 0 0  0 0.7 0 0 0  0 0 0.7 0 0  0 0 0 0.3 0"
+         result="dark-shadow"
+         id="feColorMatrix27" />
       <feOffset
-         id="feOffset41"
-         result="edge-shadow-final"
-         in="edge-shadow-in"
+         dx="0"
+         dy="4"
+         in="dark-shadow"
+         result="offset-shadow"
+         id="feOffset29" />
+      <feOffset
+         dx="0"
+         dy="2"
+         in="conv"
+         result="offset-2"
+         id="feOffset31" />
+      <feComposite
+         operator="out"
+         in="offset"
+         in2="offset-2"
+         result="edge-diff"
+         id="feComposite33" />
+      <feGaussianBlur
+         in="edge-diff"
+         stdDeviation="1"
+         result="edge-blur"
+         id="feGaussianBlur35" />
+      <feColorMatrix
+         in="edge-blur"
+         result="edge-shadow"
+         type="matrix"
+         values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.5 0"
+         id="feColorMatrix37" />
+      <feComposite
+         operator="in"
+         in="edge-shadow"
+         in2="offset"
+         result="edge-shadow-in"
+         id="feComposite39" />
+      <feOffset
+         dx="0"
          dy="1"
-         dx="0" />
+         in="edge-shadow-in"
+         result="edge-shadow-final"
+         id="feOffset41" />
       <feMerge
-         id="feMerge51"
-         result="out">
+         result="out"
+         id="feMerge51">
         <feMergeNode
-           id="feMergeNode43"
-           in="offset-shadow" />
+           in="offset-shadow"
+           id="feMergeNode43" />
         <feMergeNode
-           id="feMergeNode45"
-           in="comp" />
+           in="comp"
+           id="feMergeNode45" />
         <feMergeNode
-           id="feMergeNode47"
-           in="edge-shadow-final" />
+           in="edge-shadow-final"
+           id="feMergeNode47" />
         <feMergeNode
-           id="feMergeNode49"
-           in="SourceGraphic" />
+           in="SourceGraphic"
+           id="feMergeNode49" />
       </feMerge>
     </filter>
   </defs>
@@ -206,28 +207,32 @@
   dominant-baseline: central;
   text-anchor: middle;
 }</style>
-  <text
-     transform="scale(0.76279722,1.3109644)"
-     id="text903"
-     y="58.985268"
-     x="324.43497"
-     style="font-size:56.7437px;line-height:1.25;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, Normal';fill:#f2f2f2;stroke-width:1.4186;"
-     xml:space="preserve"><tspan
-       style="stroke-width:1.4186;fill:#f2f2f2;"
-       y="58.985268"
-       x="324.43497"
-       id="tspan901"
-       sodipodi:role="line">DogeMeUp</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-size:56.7437px;line-height:1.25;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, Normal';fill:#ff6600;stroke-width:1.4186;"
-     x="328.99411"
-     y="63.406578"
-     id="text907"
-     transform="scale(0.76279722,1.3109644)"><tspan
-       sodipodi:role="line"
-       id="tspan905"
-       x="328.99411"
-       y="63.406578"
-       style="fill:#ff6600;stroke-width:1.4186;">DogeMeUp</tspan></text>
+  <g
+     transform="translate(6.955414,-12.751592)"
+     id="g866">
+    <text
+       transform="scale(0.8200446,1.2194459)"
+       id="text903"
+       y="68.488304"
+       x="294.75766"
+       style="font-size:50.5576px;line-height:1.25;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, Normal';fill:#f2f2f2;stroke-width:1.26395"
+       xml:space="preserve"><tspan
+         style="fill:#f2f2f2;stroke-width:1.26395"
+         y="68.488304"
+         x="294.75766"
+         id="tspan901"
+         sodipodi:role="line">DogeMeUp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50.6753px;line-height:1.25;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, Normal';fill:#ff6600;stroke-width:1.26689"
+       x="304.78815"
+       y="69.521767"
+       id="text907"
+       transform="scale(0.78933912,1.2668826)"><tspan
+         sodipodi:role="line"
+         id="tspan905"
+         x="304.78815"
+         y="69.521767"
+         style="fill:#ff6600;stroke-width:1.26689">DogeMeUp</tspan></text>
+  </g>
 </svg>
