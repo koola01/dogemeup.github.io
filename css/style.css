@@ -2239,15 +2239,18 @@ body.dark .blog-page-section .blog-single {
 .timeline .content .time {
   color: #8B88B1;
   font-size: 14px;
+  text-align: center;
 }
 
 .timeline .content h3 {
   font-size: 20px;
   margin: 10px 0;
+  text-align: center;
 }
 
 .timeline .content p {
   margin: 0;
+  text-align: center;
 }
 
 .timeline span.line {
@@ -2257,6 +2260,7 @@ body.dark .blog-page-section .blog-single {
   top: 30px;
   bottom: 30px;
   left: 34px;
+  text-align: center;
 }
 
 /* === Social Icons === */
