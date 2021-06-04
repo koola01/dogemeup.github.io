@@ -2228,10 +2228,12 @@ body.dark .blog-page-section .blog-single {
   left: -7px;
   top: 0;
   z-index: 1;
+  text-align: center;
 }
 
 .timeline .content {
   position: relative;
+  text-align: center;
 }
 
 .timeline .content .time {
