@@ -47,7 +47,7 @@
      inkscape:window-x="89"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg70" />
+     inkscape:current-layer="g866" />
   <defs
      id="defs54">
     <linearGradient
@@ -208,7 +208,7 @@
   text-anchor: middle;
 }</style>
   <g
-     transform="matrix(0.88118696,0,0,0.66295516,36.341649,19.335734)"
+     transform="matrix(1.4312474,0,0,0.66295516,-103.39812,26.291149)"
      id="g866">
     <text
        transform="scale(0.8200446,1.2194459)"
@@ -222,17 +222,20 @@
          x="294.75766"
          id="tspan901"
          sodipodi:role="line">DogeMeUp</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:50.6753px;line-height:1.25;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, Normal';fill:#ff6600;stroke-width:1.26689"
-       x="304.78815"
-       y="69.521767"
-       id="text907"
-       transform="scale(0.78933912,1.2668826)"><tspan
-         sodipodi:role="line"
-         id="tspan905"
-         x="304.78815"
-         y="69.521767"
-         style="fill:#ff6600;stroke-width:1.26689">DogeMeUp</tspan></text>
+    <g
+       id="g870">
+      <text
+         transform="scale(0.65576379,1.5249393)"
+         id="text907"
+         y="48.57243"
+         x="366.87173"
+         style="font-size:60.9976px;line-height:1.25;font-family:'Gill Sans Ultra Bold';-inkscape-font-specification:'Gill Sans Ultra Bold, Normal';fill:#ff6600;stroke-width:1.52495"
+         xml:space="preserve"><tspan
+           style="fill:#ff6600;stroke-width:1.52495"
+           y="48.57243"
+           x="366.87173"
+           id="tspan905"
+           sodipodi:role="line">DogeMeUp</tspan></text>
+    </g>
   </g>
 </svg>
