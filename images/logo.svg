@@ -37,16 +37,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="745"
+     inkscape:window-width="1261"
+     inkscape:window-height="729"
      id="namedview72"
      showgrid="false"
      inkscape:zoom="0.86263737"
      inkscape:cx="61.19718"
      inkscape:cy="-17.029281"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-x="89"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg70" />
   <defs
      id="defs54">
@@ -208,7 +208,7 @@
   text-anchor: middle;
 }</style>
   <g
-     transform="translate(6.955414,-12.751592)"
+     transform="matrix(0.88118696,0,0,0.66295516,36.341649,19.335734)"
      id="g866">
     <text
        transform="scale(0.8200446,1.2194459)"
