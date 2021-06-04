@@ -1816,7 +1816,7 @@ body.dark .triangle-top:before {
 }
 body.dark .timeline.exp .timeline-container::after, body.dark .timeline.edu .timeline-container::after {
   background: #302f4e;
-  text-align: center;
+  
 }
 body.dark .portfolio-filter li {
   color: #FFF;
