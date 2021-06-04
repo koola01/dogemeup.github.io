@@ -1806,7 +1806,7 @@ body.dark .section-title:before {
 }
 body.dark .bg-dark {
   background: #302f4e !important;
-  text-align: center;
+  
 }
 body.dark h1, body.dark h2, body.dark h3, body.dark h4, body.dark h5, body.dark h6 {
   color: #FFF;
