@@ -2190,6 +2190,7 @@ body.dark .blog-page-section .blog-single {
 /* === Timeline === */
 .timeline {
   position: relative;
+  text-align: center;
 }
 
 .timeline .timeline-container {
@@ -2198,6 +2199,7 @@ body.dark .blog-page-section .blog-single {
   position: relative;
   background-color: inherit;
   width: 100%;
+  text-align: center;
 }
 .timeline .timeline-container:last-of-type {
   margin-bottom: 0;
@@ -2213,6 +2215,7 @@ body.dark .blog-page-section .blog-single {
   left: -7px;
   top: 0;
   z-index: 1;
+  text-align: center;
 }
 
 .timeline.exp .timeline-container::after {
