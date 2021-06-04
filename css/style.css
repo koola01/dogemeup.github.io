@@ -2203,6 +2203,7 @@ body.dark .blog-page-section .blog-single {
 }
 .timeline .timeline-container:last-of-type {
   margin-bottom: 0;
+  text-align: center;
 }
 
 .timeline.edu .timeline-container::after {
