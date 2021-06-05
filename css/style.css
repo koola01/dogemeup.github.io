@@ -807,7 +807,7 @@ header.mobile-header-2 .site-logo img {
   z-index: 1000;
   float: left;
   min-width: 10rem;
-  padding: 0.5rem 0;
+  padding: 0.2rem 0;
   margin: 0.125rem 0 0;
   font-size: 1rem;
   color: #212529;
@@ -816,14 +816,14 @@ header.mobile-header-2 .site-logo img {
   background-color: #fff;
   background-clip: padding-box;
   border: 0;
-  border-radius: 0.25rem;
+  border-radius: 0.1rem;
 }
 .desktop-header-3 button.navbar-toggler:focus {
   outline: 0;
   outline: 0;
 }
 .desktop-header-3 .navbar-nav li:not(:last-child) {
-  padding-right: 3rem;
+  padding-right: 2rem;
 }
 @media (min-width: 992px) {
   .desktop-header-3 .navbar-expand-lg .navbar-nav .nav-link {
